@@ -1,0 +1,243 @@
+[
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-21",
+    "start_time": "09:00",
+    "end_time": "09:35",
+    "title": "Leadership Sync"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-21",
+    "start_time": "14:00",
+    "end_time": "14:30",
+    "title": "1:1 with Neha"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-21",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-22",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "title": "Internal Budget Review"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-22",
+    "start_time": "15:00",
+    "end_time": "15:30",
+    "title": "Blocked"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-23",
+    "start_time": "15:00",
+    "end_time": "15:30",
+    "title": "Call - Meridian Logistics"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-23",
+    "start_time": "18:00",
+    "end_time": "18:15",
+    "title": "Blocked"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-24",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "title": "Board Prep Session"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-24",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "title": "Hiring Panel - Sales Associate"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-25",
+    "start_time": "10:00",
+    "end_time": "10:30",
+    "title": "Facilities Check-in"
+  },
+  {
+    "person": "Arjun Malhotra",
+    "date": "2026-09-25",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "title": "Blocked"
+  },
+
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-21",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-21",
+    "start_time": "14:00",
+    "end_time": "14:30",
+    "title": "1:1 with Arjun"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-22",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "title": "Campaign Vendor Call"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-23",
+    "start_time": "10:00",
+    "end_time": "10:30",
+    "title": "Deck Prep"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-23",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-24",
+    "start_time": "09:30",
+    "end_time": "10:00",
+    "title": "Deck Review with Arjun"
+  },
+  {
+    "person": "Neha Kapoor",
+    "date": "2026-09-25",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "title": "Blocked"
+  },
+
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-21",
+    "start_time": "09:00",
+    "end_time": "09:35",
+    "title": "Leadership Sync"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-21",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-22",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "title": "Internal Budget Review"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-22",
+    "start_time": "15:30",
+    "end_time": "16:00",
+    "title": "Ops Standup"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-23",
+    "start_time": "09:00",
+    "end_time": "11:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-24",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-25",
+    "start_time": "10:00",
+    "end_time": "10:30",
+    "title": "Facilities Check-in"
+  },
+  {
+    "person": "Raghav Sethi",
+    "date": "2026-09-25",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "title": "Blocked"
+  },
+
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-21",
+    "start_time": "14:30",
+    "end_time": "15:00",
+    "title": "Budget Prep"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-21",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-22",
+    "start_time": "09:00",
+    "end_time": "09:15",
+    "title": "Quick Call with Arjun"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-22",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "title": "Internal Budget Review"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-23",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-24",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "title": "Board Prep Session"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-24",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "title": "Blocked"
+  },
+  {
+    "person": "Divya Rao",
+    "date": "2026-09-25",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "Blocked"
+  }
+]
